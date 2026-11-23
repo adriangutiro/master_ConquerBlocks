@@ -4,3 +4,5 @@ este es mi primer repositorio y donde hare todas las pruebas y ejercicios y apun
 Esto lo añado para mostrar como hacer un commit desde github
 
 añado otra linea para demostrar como funciona fetch
+
+vamos a añadir otra linea para demostrar como funciona pull 
